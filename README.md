@@ -1,2 +1,5 @@
 # Mooc-Frontend
-test123
+
+Github讲解
+
+1 三个branch （release，main，dev）
